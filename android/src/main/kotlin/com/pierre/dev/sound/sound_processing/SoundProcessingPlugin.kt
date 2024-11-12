@@ -1,5 +1,6 @@
 package com.pierre.dev.sound.sound_processing
 
+import com.jlibrosa.audio.JLibrosa
 import io.flutter.embedding.engine.plugins.FlutterPlugin
 import io.flutter.plugin.common.MethodCall
 import io.flutter.plugin.common.MethodChannel
